@@ -2,11 +2,11 @@
 
 
 
-![Smart Job Detector Banner](./smart job detector.png)
+![Smart job detector](./smart-job-detector.png)
 
-![Smart Job Detector Banner](./smart job detector 2.png)
+![Smart Job Detector Banner](./smart-job-detector-2.png)
 
-
+=======================
 
 ## 📌 Project Overview
 
