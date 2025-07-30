@@ -101,7 +101,7 @@ Below are key visual outputs from our project:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR\_USERNAME/smart-job-detector.git
+git clone [https://github.com/YOUR\_USERNAME/smart-job-detector.git](https://github.com/Binita-Sharma/fake-job-detection.git)
 
 2. Install dependencies:
 
